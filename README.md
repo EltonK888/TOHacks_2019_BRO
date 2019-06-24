@@ -31,10 +31,10 @@ and open up `http://localhost:8080` on your browser
 
 ## Screenshots
 Home Page
-![home page](https://github.com/EltonK888/TOHacks_2019_BRO/tree/master/static/image/index.PNG) 
+![home page](https://github.com/EltonK888/TOHacks_2019_BRO/blob/master/static/image/index.PNG) 
 
 Location Markers
-![location markers](https://github.com/EltonK888/TOHacks_2019_BRO/tree/master/static/image/markers.PNG) 
+![location markers](https://github.com/EltonK888/TOHacks_2019_BRO/blob/master/static/image/markers.PNG) 
 
 Route Finding
-![Route to disposal](https://github.com/EltonK888/TOHacks_2019_BRO/tree/master/static/image/route.PNG)
+![Route to disposal](https://github.com/EltonK888/TOHacks_2019_BRO/blob/master/static/image/route.PNG)
