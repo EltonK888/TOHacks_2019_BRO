@@ -25,3 +25,14 @@ $  python app.py
 and open up `http://localhost:8080` on your browser 
 
 **Make sure you use your own Google Maps API key in the places where `YOUR_GOOGLE_MAPS_API_KEY` is found**
+
+
+## Screenshots
+Home Page
+![home page](https://github.com/EltonK888/TOHacks_2019_BRO/tree/master/static/image/index.PNG) 
+
+Location Markers
+![location markers](https://github.com/EltonK888/TOHacks_2019_BRO/tree/master/static/image/markers.PNG) 
+
+Route Finding
+![Route to disposal](https://github.com/EltonK888/TOHacks_2019_BRO/tree/master/static/image/route.PNG)
