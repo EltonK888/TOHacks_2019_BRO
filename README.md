@@ -5,8 +5,10 @@ This is a hack that was done for TOHacks 2019 called BRO (Batteries Recycling Or
 Companies can register their disposal location and have the marker appear on the google map.
 
 ## Tech Stack
-**Back-end** - Python, Flask, SQLite3
-**Front-end** - HTML5, CSS3, Bootstrap, Vanilla JavaScript
+**Back-end** - Python, Flask, SQLite3 
+
+**Front-end** - HTML5, CSS3, Bootstrap, Vanilla JavaScript 
+
 and GoogleMaps API
 
 ## Dependencies
